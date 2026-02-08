@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "視界",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-08T01:12:04.227532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "視界",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/01_視界_TOOBOE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "視界",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_視界_TOOBOE.txt"
+    }
+  ]
+}
